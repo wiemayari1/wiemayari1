@@ -51,7 +51,7 @@
   <text x="30" y="205" class="value">Learning Mode<tspan class="status-dim">..........</tspan><tspan class="status-on">ON</tspan></text>
   <text x="30" y="222" class="value">Curiosity<tspan class="status-dim">..............</tspan><tspan class="status-on">UNLIMITED</tspan></text>
   <text x="30" y="239" class="value">Security Mindset<tspan class="status-dim">.......</tspan><tspan class="status-on">ENABLED</tspan></text>
-  <text x="30" y="256" class="value">Coffee<tspan class="status-dim">.................</tspan><tspan class="status-on">REQUIRED</tspan> ☕</text>
+  <text x="30" y="256" class="value">Coffee<tspan class="status-dim">.................</tspan><tspan class="status-on">REQUIRED</tspan></text>
 
   <line x1="30" y1="276" x2="670" y2="276" stroke="#30363d" stroke-width="1"/>
 
