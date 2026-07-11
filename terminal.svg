@@ -34,7 +34,7 @@
   <circle class="dots-green" cx="58" cy="16" r="5"/>
 
   <!-- Title text -->
-  <text x="350" y="20" text-anchor="middle" class="user">wiem@security-terminal</text>
+  <text x="350" y="20" text-anchor="middle" class="user">wiem@terminal</text>
 
   <!-- Terminal content -->
   <text x="30" y="58" class="header">&gt; System Online.</text>
