@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-ingwi.vercel.app/api?username=wiemayari1&show_icons=true&theme=tokyonight&hide_border=true&v=4" width="60%" />
+  <img src="https://github-readme-stats-ingwi.vercel.app/api?username=wiemayari1&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&custom_title=Wiem%20AYARI" width="60%" />
 </div>
 
 <div align="center">
