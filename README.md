@@ -13,11 +13,18 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wiemayari1&theme=tokyonight&hide_border=true" width="60%" />
+  <!-- Carte de Score Globale (Affiche le Rang A+, A, B, etc.) -->
+  <img src="https://vercel.app" width="55%" />
+  
+  <br><br>
+  
+  <!-- Statistiques de Série (Streak Stats) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wiemayari1&theme=tokyonight&hide_border=true" width="55%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wiemayari1&theme=tokyonight&no-frame=true&row=1&column=4" width="85%" />
+  <!-- Trophées par catégorie -->
+  <img src="https://vercel.app" width="85%" />
 </div>
