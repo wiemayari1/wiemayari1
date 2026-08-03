@@ -1,4 +1,8 @@
-[![Terminal](https://github.com/wiemayari1/wiemayari1/raw/main/terminal.svg)](/wiemayari1/wiemayari1/blob/main/terminal.svg)
+<div align="center">
+  <a href="/wiemayari1/wiemayari1/blob/main/terminal.svg">
+    <img src="https://github.com/wiemayari1/wiemayari1/raw/main/terminal.svg" width="100%" />
+  </a>
+</div>
 
 ---
 
