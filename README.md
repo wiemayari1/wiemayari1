@@ -13,5 +13,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wiemayari1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" width="60%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wiemayari1&theme=tokyonight&no-frame=true&row=1&column=4" width="85%" />
 </div>
