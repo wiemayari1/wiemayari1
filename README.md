@@ -15,5 +15,5 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wiemayari1&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wiemayari1&theme=tokyonight&hide_border=true" width="50%" />
 </div>
