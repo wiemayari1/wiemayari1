@@ -10,8 +10,6 @@
 
 ### GitHub Stats
 
-</div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wiemayari1&theme=tokyonight&hide_border=true" width="60%" />
 </div>
@@ -19,5 +17,5 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wiemayari1&theme=tokyonight&no-frame=true&row=1&column=4" width="85%" />
+  <img src="https://img.shields.io/badge/Rank-A%2B-8b5cf6?style=for-the-badge&logo=github&logoColor=white" />
 </div>
