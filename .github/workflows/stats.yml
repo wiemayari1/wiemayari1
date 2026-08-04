@@ -1,0 +1,42 @@
+name: Update GitHub stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # === STREAK (local) ===
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=wiemayari1&theme=tokyonight&hide_border=true&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # === STATS CARD ===
+      - name: Download stats card
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api?username=wiemayari1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" -o profile/stats-card.svg
+          # Si rate limit, garde l'ancienne version
+          if [ $(wc -c < profile/stats-card.svg) -lt 2000 ]; then
+            git checkout profile/stats-card.svg || true
+          fi
+        continue-on-error: true
+
+      # === COMMIT ===
+      - name: Commit all stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/
+          git commit -m "Update GitHub stats" || exit 0
+          git push
