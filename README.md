@@ -12,7 +12,6 @@
 
 <div align="center">
   <img src="./profile/stats-card.svg" width="49%" />
-  <img src="./profile/top-langs.svg" width="49%" />
   <br><br>
   <img src="./profile/streak.svg" width="60%" />
 </div>
