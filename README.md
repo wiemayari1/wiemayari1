@@ -11,7 +11,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wiemayari1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="60%" />
-  <br><br>
-  <img src="./profile/streak.svg" width="60%" />
+  <a href="https://github.com/wiemayari1">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=wiemayari1&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/wiemayari1">
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=wiemayari1&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+  </a>
 </div>
