@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="./profile/stats.svg" width="80%" />
+  <img src="./profile/achievements.svg" width="80%" />
   <br><br>
   <img src="./profile/streak.svg" width="60%" />
 </div>
