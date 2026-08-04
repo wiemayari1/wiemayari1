@@ -11,5 +11,5 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=wiemayari1&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" width="60%" />
 </div>
