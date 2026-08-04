@@ -11,7 +11,8 @@
 </div>
 
 <div align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" width="90%" />
+  <img src="./profile/stats-card.svg" width="49%" />
+  <img src="./profile/top-langs.svg" width="49%" />
   <br><br>
-  <img src="./profile/streak.svg" alt="GitHub Streak" width="60%" />
+  <img src="./profile/streak.svg" width="60%" />
 </div>
