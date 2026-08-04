@@ -8,13 +8,11 @@
 
 ### GitHub Stats
 
-</div>
-
 <div align="center">
   <a href="https://github.com/wiemayari1">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=wiemayari1&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=wiemayari1&show_icons=true&theme=dracula&hide_border=true" height="150" />
   </a>
   <a href="https://github.com/wiemayari1">
-    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=wiemayari1&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=wiemayari1&theme=dracula&hide_border=true" height="150" />
   </a>
 </div>
